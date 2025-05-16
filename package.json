@@ -1,0 +1,13 @@
+{
+  "name": "odds-arbitrage",
+  "version": "1.0.0",
+  "description": "Sports betting arbitrage analyzer",
+  "main": "odds-fetcher.js",
+  "type": "module",
+  "scripts": {
+    "start": "node odds-fetcher.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
